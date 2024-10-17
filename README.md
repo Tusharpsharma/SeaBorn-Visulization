@@ -15,5 +15,5 @@
 
 **Color Palettes:** It includes several color palettes, making it easy to apply aesthetically pleasing colors to your plots.
 
-Check the Attachment if anyone wants to learn Basic 
+**Check the Attachment if anyone wants to learn Basic**
 
